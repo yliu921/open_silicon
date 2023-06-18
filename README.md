@@ -5,7 +5,8 @@
 | :exclamation: Important Note            |
 |-----------------------------------------|
 
-## Please fill in your project documentation in this README.md file 
+## Introduction
+Have not thoughts yet.
 
 Refer to [README](docs/source/index.rst#section-quickstart) for a quickstart of how to use caravel_user_project
 
